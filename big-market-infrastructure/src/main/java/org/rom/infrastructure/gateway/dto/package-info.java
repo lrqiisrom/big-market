@@ -1,0 +1,1 @@
+package org.rom.infrastructure.gateway.dto;
